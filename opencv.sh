@@ -27,8 +27,8 @@ sudo apt-get install libavcodec-dev libavformat-dev libmp3lame-dev
 sudo apt-get install libswscale-dev libdc1394-22-dev libxine-dev
 sudo apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev
 sudo apt-get install libv4l-dev v4l-utils libfaac-dev libopencore-amrnb-dev
-sudo apt-get instal libopencore-amrwb-dev libtheora-dev libvorbis-dev
-sudo apt-get insta libxvidcore-dev libx264-dev x264 yasm
+sudo apt-get install libopencore-amrwb-dev libtheora-dev libvorbis-dev
+sudo apt-get install libxvidcore-dev libx264-dev x264 yasm
 echo "***********************************"
 
 echo "Parallelism and linear algebra libraries"
